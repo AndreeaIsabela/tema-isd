@@ -1,0 +1,9 @@
+node_modules
+
+uploads
+
+client/files
+
+build
+
+server/config
